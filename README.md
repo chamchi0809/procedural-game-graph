@@ -1,6 +1,7 @@
 # 진행 그래프 실험실
 
 시드 하나로 레벨의 진행 구조(의존성 그래프)와 지도(공간 그래프)를 함께 생성하고, 결과를 3D로 바로 걸어 다니며 플레이해 볼 수 있는 도구입니다.
+
 [플레이 해보기](https://procedural-game-graph.pages.dev/)
 
 Rune Skovbo Johansen의 글 [Procedural game progression dependency graphs](https://blog.runevision.com/2024/10/procedural-game-progression-dependency.html)에서 제안한 방식을 그대로 구현했습니다.
